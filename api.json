@@ -21,8 +21,11 @@
     },
     "issueNumber": 7,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2025-10-07T14:29:50.000Z"
+    "state": "completed",
+    "startedAt": "2025-10-07T14:29:50.000Z",
+    "completedAt": "2025-10-07T14:30:23.000Z",
+    "timeToComplete": 33000,
+    "timeToCompleteFormatted": "33 seconds"
   },
   {
     "title": "Shikshapatri in English",
