@@ -32,6 +32,10 @@ Filter books by rating:
 [![SORATHI SANTO](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DO9ZjDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/vanpariyar/books/issues/8 "SORATHI SANTO by SWAMI PRABHU SHASTRI JUNAGADH completed in 51 seconds on October 2025")
 [![COMPUTER PARICHAY PART 1 AND 2 (કમ્પ્યુટર પરિચય ભાગ ૧ અને ૨)](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D_fqZDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/vanpariyar/books/issues/7 "COMPUTER PARICHAY PART 1 AND 2 (કમ્પ્યુટર પરિચય ભાગ ૧ અને ૨) by DEVVALLABH SWAMI  (SWAMINARAYAN SAINT) completed in 33 seconds on October 2025")
 
+### ⏭️ Want to Read (1)
+
+[![Amrut Nu Achaman](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DgencDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/vanpariyar/books/issues/9 "Amrut Nu Achaman by Shree Swaminarayan Gurukul Rajkot Sansthan completed in undefined on Invalid Date")
+
 <!--end:bookshelf-action-->
 
 ## 📄 License
