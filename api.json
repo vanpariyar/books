@@ -1,5 +1,33 @@
 [
   {
+    "title": "From the Village to the World",
+    "authors": [
+      "Manu Patolia",
+      "Kailash Mota"
+    ],
+    "publisher": "Bloomsbury Publishing",
+    "publishedDate": "2023-11-18",
+    "description": "From the Village to the World is the inspiring story of Manu Haribhai Patolia whose journey began from the village of Taravada in Gujarat. It traces five decades in the life of Patolia, from when he first landed in San Francisco in 1969 with only 75 cents in his pocket to establishing himself as a reputed entrepreneur and head of InvaPharm Inc. He fulfilled his dream of graduating as a civil engineer despite setbacks, and through sheer entrepreneurial brilliance built an empire worth $250 million. All the while, he continued to support his entire family and contributed to the setting up and growth of the Swaminarayan Sampradaya in the US. This stirring account encourages the young and ambitious to dream big, work hard and believe in themselves in order to fulfil their goals.",
+    "image": "http://books.google.com/books/content?id=43jeEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Biography & Autobiography"
+    ],
+    "pageCount": 396,
+    "isbn10": "9356401160",
+    "isbn13": "9789356401167",
+    "googleBooks": {
+      "id": "43jeEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=43jeEAAAQBAJ&pg=PT350&dq=intitle:From+the+Village+to+the+World:+A+Long+Journey+To+Success&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=43jeEAAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=43jeEAAAQBAJ"
+    },
+    "issueNumber": 5,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2025-10-07T11:15:32.000Z"
+  },
+  {
     "title": "The Vachanāmrut",
     "authors": [
       "Swami Sahajānanda",
