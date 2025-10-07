@@ -1,31 +1,30 @@
 [
   {
-    "title": "Arifureta: From Commonplace to World's Strongest Volume 2",
+    "title": "The Vachanāmrut",
     "authors": [
-      "Ryo Shirakome"
+      "Swami Sahajānanda",
+      "Bochasanvasi Shri Aksharpurushottama Sanstha"
     ],
-    "publisher": "J-Novel Club",
-    "publishedDate": "2017-07-21",
-    "description": "After being summoned to a new world and thrown down into the depths of hell, Hajime Nagumo met Yue and together they conquered the Great Orcus Labyrinth. The pair was planning on taking it easy on the surface for a little bit, but a meeting with the bunny girl Shia Haulia throws a wrench into those plans. She has the peculiar power to see the future, and according to her, Hajime's the one saving her family in her visions! Hajime was planning on refusing, but it appears she might be able to help him on his quest to return home. And so, the adventure continues in Reisen Gorge.",
-    "image": "http://books.google.com/books/content?id=WytgDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "publishedDate": "2010",
+    "image": "https://tse2.mm.bing.net/th?q=The%20Vachan%C4%81mrut%20by%20Swami%20Sahaj%C4%81nanda%2C%20Bochasanvasi%20Shri%20Aksharpurushottama%20Sanstha&w=256&c=7&rs=1&p=0&dpr=3&pid=1.7&mkt=en-IN&adlt=moderate",
     "language": "en",
-    "averageRating": 5,
+    "averageRating": 2,
     "ratingsCount": 1,
     "categories": [
-      "Young Adult Fiction"
+      "Swami-Narayanis"
     ],
-    "pageCount": 315,
-    "isbn10": "1718311028",
-    "isbn13": "9781718311022",
+    "pageCount": 890,
+    "isbn10": "8175264314",
+    "isbn13": "9788175264311",
     "googleBooks": {
-      "id": "WytgDwAAQBAJ",
-      "preview": "http://books.google.com/books?id=WytgDwAAQBAJ&pg=PT27&dq=intitle:From+the+Village+to+the+World&hl=&cd=8&source=gbs_api",
-      "info": "https://play.google.com/store/books/details?id=WytgDwAAQBAJ&source=gbs_api",
-      "canonical": "https://play.google.com/store/books/details?id=WytgDwAAQBAJ"
+      "id": "UvxAlQEACAAJ",
+      "preview": "http://books.google.com/books?id=UvxAlQEACAAJ&dq=intitle:vachanamrut&hl=&cd=3&source=gbs_api",
+      "info": "http://books.google.com/books?id=UvxAlQEACAAJ&dq=intitle:vachanamrut&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/The_Vachan%C4%81mrut.html?hl=&id=UvxAlQEACAAJ"
     },
-    "issueNumber": 3,
+    "issueNumber": 4,
     "progressPercent": 0,
     "state": "reading",
-    "startedAt": "2025-10-07T09:55:33.000Z"
+    "startedAt": "2025-10-07T11:11:09.000Z"
   }
 ]
