@@ -1,5 +1,34 @@
 [
   {
+    "title": "Satsang Prasnottarmala",
+    "authors": [
+      "Shree Swaminarayan Gurukul Rajkot Sansthan"
+    ],
+    "publisher": "Rajkot Gurukul",
+    "description": "Jay Swaminarayan",
+    "image": "http://books.google.com/books/content?id=NgjeDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "gu",
+    "categories": [
+      "Religion"
+    ],
+    "pageCount": 88,
+    "isbn10": "9384051500",
+    "isbn13": "9789384051501",
+    "googleBooks": {
+      "id": "NgjeDwAAQBAJ",
+      "preview": "http://books.google.com/books?id=NgjeDwAAQBAJ&pg=PT17&dq=intitle:Satsang+Prasnottarmala:+Swaminarayan+Books&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=NgjeDwAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=NgjeDwAAQBAJ"
+    },
+    "issueNumber": 10,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2025-10-07T14:41:07.000Z",
+    "completedAt": "2025-10-07T14:41:34.000Z",
+    "timeToComplete": 27000,
+    "timeToCompleteFormatted": "27 seconds"
+  },
+  {
     "title": "Amrut Nu Achaman",
     "authors": [
       "Shree Swaminarayan Gurukul Rajkot Sansthan"
