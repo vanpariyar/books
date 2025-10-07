@@ -1,5 +1,30 @@
 [
   {
+    "title": "SORATHI SANTO",
+    "authors": [
+      "SWAMI PRABHU SHASTRI JUNAGADH"
+    ],
+    "publisher": "purnavallabhswamiji@gmail.com",
+    "publishedDate": "2018-07-13",
+    "description": "Swami Parabhu shastri has written 28 saints full life sketch of sorath territory (Junagadh) in gujarati language.",
+    "image": "http://books.google.com/books/content?id=O9ZjDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "gu",
+    "pageCount": 293,
+    "googleBooks": {
+      "id": "O9ZjDwAAQBAJ",
+      "preview": "http://books.google.com/books?id=O9ZjDwAAQBAJ&pg=PT48&dq=intitle:SORATHI+SANTO:+A+FULL+BIOGRAPHY+OF+28+SAINTS+OF+LORD+SWAMINARAYAN+RESIDING+IN+SORATH+(JUNAGADH)&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=O9ZjDwAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=O9ZjDwAAQBAJ"
+    },
+    "issueNumber": 8,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2025-10-07T14:31:43.000Z",
+    "completedAt": "2025-10-07T14:32:34.000Z",
+    "timeToComplete": 51000,
+    "timeToCompleteFormatted": "51 seconds"
+  },
+  {
     "title": "COMPUTER PARICHAY PART 1 AND 2 (કમ્પ્યુટર પરિચય ભાગ ૧ અને ૨)",
     "authors": [
       "DEVVALLABH SWAMI  (SWAMINARAYAN SAINT)"
