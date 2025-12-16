@@ -1,5 +1,35 @@
 [
   {
+    "title": "Shikshapatri in English",
+    "authors": [
+      "Bhagwan Shree Swaminarayan",
+      "Shree Swaminarayan Gurukul Rajkot Sansthan"
+    ],
+    "publisher": "Rajkot Gurukul",
+    "description": "Shikshapatri and Vachanamrutam are the basic scriptures of the swaminarayan sampradaya. Shikshapatri is written by Shree Sahajanand Swami. It is a sort of code of conduct, a set of rules of moral behavior, for social decorum, religious performance and worship of God. It aims at making man’s life smooth, happy and achieves final liberation after his death. Vachanamrutam is a collection of 262 talks delivered by Shree Sahajanand Swami, during the last ten years of His life. The book contains the sum and substance of the basic philosophy of Swaminarayan Sampradaya. It has a distinct note of authority as the thoughts are based on His personal experience.",
+    "image": "http://books.google.com/books/content?id=qbbeDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Religion"
+    ],
+    "pageCount": 83,
+    "isbn10": "9384051381",
+    "isbn13": "9789384051389",
+    "googleBooks": {
+      "id": "qbbeDwAAQBAJ",
+      "preview": "http://books.google.com/books?id=qbbeDwAAQBAJ&printsec=frontcover&dq=intitle:Shikshapatri+in+English:+Best+Swaminarayan+Books&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=qbbeDwAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=qbbeDwAAQBAJ"
+    },
+    "issueNumber": 6,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2025-10-07T14:01:05.000Z",
+    "completedAt": "2025-12-16T11:40:22.000Z",
+    "timeToComplete": 6039557000,
+    "timeToCompleteFormatted": "2 months"
+  },
+  {
     "title": "Satsang Prasnottarmala",
     "authors": [
       "Shree Swaminarayan Gurukul Rajkot Sansthan"
@@ -106,33 +136,6 @@
     "completedAt": "2025-10-07T14:30:23.000Z",
     "timeToComplete": 33000,
     "timeToCompleteFormatted": "33 seconds"
-  },
-  {
-    "title": "Shikshapatri in English",
-    "authors": [
-      "Bhagwan Shree Swaminarayan",
-      "Shree Swaminarayan Gurukul Rajkot Sansthan"
-    ],
-    "publisher": "Rajkot Gurukul",
-    "description": "Shikshapatri and Vachanamrutam are the basic scriptures of the swaminarayan sampradaya. Shikshapatri is written by Shree Sahajanand Swami. It is a sort of code of conduct, a set of rules of moral behavior, for social decorum, religious performance and worship of God. It aims at making man’s life smooth, happy and achieves final liberation after his death. Vachanamrutam is a collection of 262 talks delivered by Shree Sahajanand Swami, during the last ten years of His life. The book contains the sum and substance of the basic philosophy of Swaminarayan Sampradaya. It has a distinct note of authority as the thoughts are based on His personal experience.",
-    "image": "http://books.google.com/books/content?id=qbbeDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "categories": [
-      "Religion"
-    ],
-    "pageCount": 83,
-    "isbn10": "9384051381",
-    "isbn13": "9789384051389",
-    "googleBooks": {
-      "id": "qbbeDwAAQBAJ",
-      "preview": "http://books.google.com/books?id=qbbeDwAAQBAJ&printsec=frontcover&dq=intitle:Shikshapatri+in+English:+Best+Swaminarayan+Books&hl=&cd=1&source=gbs_api",
-      "info": "https://play.google.com/store/books/details?id=qbbeDwAAQBAJ&source=gbs_api",
-      "canonical": "https://play.google.com/store/books/details?id=qbbeDwAAQBAJ"
-    },
-    "issueNumber": 6,
-    "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2025-10-07T14:01:05.000Z"
   },
   {
     "title": "From the Village to the World",
